@@ -1,0 +1,13 @@
+sudo: false
+language: go
+go:
+  - 1.7
+  - tip
+install: 
+  - make init
+script:
+  - make build
+  - make validate
+matrix:
+  allow_failures:
+    - go: tip

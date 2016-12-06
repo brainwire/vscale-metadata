@@ -1,0 +1,14 @@
+.DS_Store
+/pkg
+/bin
+/hack/glide
+/hack/go2xunit
+/hack/gocov
+/hack/gocov-xml
+/hack/golint
+/src/vscale-metadata/vscale-metadata
+/src/vscale-metadata/glide.lock
+/src/vscale-metadata/vendor/
+/docker/vscale-metadata/template
+/docker/vscale-metadata/vscale-metadata
+/src/vscale-metadata/log.txt

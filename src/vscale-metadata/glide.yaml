@@ -1,0 +1,7 @@
+package: vscale-metadata
+import:
+- package: github.com/gorilla/mux
+- package: github.com/Sirupsen/logrus
+- package: github.com/tidwall/sjson
+- package: github.com/spf13/viper
+- package: github.com/vscale/go-vscale
