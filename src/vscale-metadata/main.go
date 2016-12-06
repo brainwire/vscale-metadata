@@ -16,7 +16,7 @@ var (
 const (
 	defaultPort             = 8080
 	defaultHost             = "0.0.0.0"
-	defaultApiKey						= "99136b9b5895526304be641ef859760609d6ef49e2846c6079370696637d5fac"
+	defaultApiKey						= ""
 )
 
 func main() {
